@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d22c235.css",
-    "main.js": "/static/js/main.5f8cc2ce.js",
-    "static/js/787.498dbdfd.chunk.js": "/static/js/787.498dbdfd.chunk.js",
-    "static/media/snimak1.mp4": "/static/media/snimak1.702861f3a28ee41a6b45.mp4",
-    "static/media/butterfly.jpg": "/static/media/butterfly.05cf5fa93c2003e70d31.jpg",
-    "static/media/zurka1.jpg": "/static/media/zurka1.5d39a55fcd4edb0d8b5c.jpg",
-    "static/media/snesko.jpg": "/static/media/snesko.e620b2c41e051f35001a.jpg",
-    "static/media/marina-pozdrav.jpg": "/static/media/marina-pozdrav.e16ef6a607419e8d61dc.jpg",
-    "static/media/pas.jpg": "/static/media/pas.d5d9d9781cdcef54e7d3.jpg",
-    "static/media/zurka2.jpg": "/static/media/zurka2.84536ce6715ec6feec3b.jpg",
-    "static/media/jelka.jpg": "/static/media/jelka.7454e2a807008847dae8.jpg",
-    "index.html": "/index.html",
-    "main.2d22c235.css.map": "/static/css/main.2d22c235.css.map",
-    "main.5f8cc2ce.js.map": "/static/js/main.5f8cc2ce.js.map",
-    "787.498dbdfd.chunk.js.map": "/static/js/787.498dbdfd.chunk.js.map"
+    "main.css": "/website/static/css/main.2d22c235.css",
+    "main.js": "/website/static/js/main.c3c465ca.js",
+    "static/js/787.498dbdfd.chunk.js": "/website/static/js/787.498dbdfd.chunk.js",
+    "static/media/snimak1.mp4": "/website/static/media/snimak1.702861f3a28ee41a6b45.mp4",
+    "static/media/butterfly.jpg": "/website/static/media/butterfly.05cf5fa93c2003e70d31.jpg",
+    "static/media/zurka1.jpg": "/website/static/media/zurka1.5d39a55fcd4edb0d8b5c.jpg",
+    "static/media/snesko.jpg": "/website/static/media/snesko.e620b2c41e051f35001a.jpg",
+    "static/media/marina-pozdrav.jpg": "/website/static/media/marina-pozdrav.e16ef6a607419e8d61dc.jpg",
+    "static/media/pas.jpg": "/website/static/media/pas.d5d9d9781cdcef54e7d3.jpg",
+    "static/media/zurka2.jpg": "/website/static/media/zurka2.84536ce6715ec6feec3b.jpg",
+    "static/media/jelka.jpg": "/website/static/media/jelka.7454e2a807008847dae8.jpg",
+    "index.html": "/website/index.html",
+    "main.2d22c235.css.map": "/website/static/css/main.2d22c235.css.map",
+    "main.c3c465ca.js.map": "/website/static/js/main.c3c465ca.js.map",
+    "787.498dbdfd.chunk.js.map": "/website/static/js/787.498dbdfd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d22c235.css",
-    "static/js/main.5f8cc2ce.js"
+    "static/js/main.c3c465ca.js"
   ]
 }
