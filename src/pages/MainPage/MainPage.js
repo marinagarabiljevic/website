@@ -11,6 +11,7 @@ import zurka1 from '../../assets/images/zurka1.jpg';
 import zurka2 from '../../assets/images/zurka2.jpg';
 import snimak1 from '../../assets/images/snimak1.mp4';
 import leptir from '../../assets/images/butterfly.jpg';
+import grupna from '../../assets/images/grupna.jpg'
 import TraitColumn from '../../components/TraitColumn/TraitColumn';
 import MainText from '../../components/MainText/MainText';
 import Card from '../../components/Card/Card';
@@ -94,6 +95,8 @@ const MainPage = () => {
 					<Card title='Uvek vesela i nasmejana' hoverText='Išla bih na zvezde, ali ne treba mi pažnja' image={snimak1} video={true}/>
 
 					<Card title='Iznad svih u svakom pogledu' hoverText='Šta nije jasno??' image={zurka1} additionalStyle={{marginTop:'20%'}} />
+                    
+                    <Card title='Ostajem zauvek najjača' hoverText='Kotiram se u Vasionu na najviši nivo' image={grupna} additionalStyle={{marginTop:'20%'}} />
                 </div>
 			</section>
 		</main>
